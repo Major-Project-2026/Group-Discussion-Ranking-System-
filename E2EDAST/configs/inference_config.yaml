@@ -1,0 +1,15 @@
+# inference_config.yaml
+
+beam_width: 5
+decode_method: greedy  # or "beam"
+max_decode_len: 512
+
+slidar:
+  post_process:
+    min_turn_duration_sec: 1.0
+    merge_speaker_gap_sec: 0.5
+  diarization_threshold: 0.5
+
+tokenizer_path: src/loader/tokenizer.py
+model_checkpoint: experiments/pretrained_model/model_best.pth
+output_dir: experiments/inference_output/

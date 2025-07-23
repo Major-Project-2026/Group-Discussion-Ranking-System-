@@ -1,0 +1,4790 @@
+[
+  {
+    "start": 5.4,
+    "end": 7.18,
+    "text": "Are we clear on the parameters?",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.875
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.53,
+      "full_probs": {
+        "neu": 0.53,
+        "hap": 0.244,
+        "ang": 0.045,
+        "sad": 0.181
+      }
+    }
+  },
+  {
+    "start": 9.28,
+    "end": 18.68,
+    "text": "Okay, folks. So, the topic for today is, should India host 2036 Olympics. It's a national",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.933
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.415,
+      "full_probs": {
+        "neu": 0.327,
+        "hap": 0.415,
+        "ang": 0.004,
+        "sad": 0.254
+      }
+    }
+  },
+  {
+    "start": 18.68,
+    "end": 21.0,
+    "text": "opportunity and a financial burden.",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.926
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.405,
+      "full_probs": {
+        "neu": 0.405,
+        "hap": 0.381,
+        "ang": 0.198,
+        "sad": 0.016
+      }
+    }
+  },
+  {
+    "start": 151.02,
+    "end": 161.58,
+    "text": "Okay, so I would like to start the conversation. I think Olympics is an international event",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.785
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.763,
+      "full_probs": {
+        "neu": 0.763,
+        "hap": 0.221,
+        "ang": 0.004,
+        "sad": 0.011
+      }
+    }
+  },
+  {
+    "start": 161.58,
+    "end": 168.46,
+    "text": "and from the entire world almost every country is participating in this event. So, it is very",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.799
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.415,
+      "full_probs": {
+        "neu": 0.168,
+        "hap": 0.415,
+        "ang": 0.026,
+        "sad": 0.391
+      }
+    }
+  },
+  {
+    "start": 170.52,
+    "end": 176.92,
+    "text": "helpful for our India to keep the international relations and improve the relations. So, I think",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.625
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.717,
+      "full_probs": {
+        "neu": 0.135,
+        "hap": 0.717,
+        "ang": 0.093,
+        "sad": 0.056
+      }
+    }
+  },
+  {
+    "start": 176.92,
+    "end": 181.88,
+    "text": "the Olympics would be hosted by India in 2036.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.384
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.847,
+      "full_probs": {
+        "neu": 0.847,
+        "hap": 0.117,
+        "ang": 0.006,
+        "sad": 0.03
+      }
+    }
+  },
+  {
+    "start": 184.32,
+    "end": 191.18,
+    "text": "I would like to come to this point. As much as I understand Olympics is a multinational event",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.693
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.804,
+      "full_probs": {
+        "neu": 0.139,
+        "hap": 0.037,
+        "ang": 0.02,
+        "sad": 0.804
+      }
+    }
+  },
+  {
+    "start": 191.18,
+    "end": 195.76,
+    "text": "where you will be able to represent yourself in front of my countries and get a chance to host",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.727
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.931,
+      "full_probs": {
+        "neu": 0.042,
+        "hap": 0.022,
+        "ang": 0.005,
+        "sad": 0.931
+      }
+    }
+  },
+  {
+    "start": 195.76,
+    "end": 201.54,
+    "text": "other countries that come out of the country and also explore them to our culture. I still feel",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.658
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.896,
+      "full_probs": {
+        "neu": 0.036,
+        "hap": 0.067,
+        "ang": 0.001,
+        "sad": 0.896
+      }
+    }
+  },
+  {
+    "start": 201.54,
+    "end": 206.92,
+    "text": "Olympics will be a financial burden to our economy. India, as we know, is a developing economy,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.484
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.832,
+      "full_probs": {
+        "neu": 0.145,
+        "hap": 0.019,
+        "ang": 0.003,
+        "sad": 0.832
+      }
+    }
+  },
+  {
+    "start": 206.92,
+    "end": 212.16,
+    "text": "is a fully developed economy and I feel like we like the infrastructure and the facilities",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.981
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.795,
+      "full_probs": {
+        "neu": 0.122,
+        "hap": 0.079,
+        "ang": 0.004,
+        "sad": 0.795
+      }
+    }
+  },
+  {
+    "start": 212.16,
+    "end": 217.64,
+    "text": "like now. The best example to be the pivot worker that was at the end of the year. The end of our",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.782
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.798,
+      "full_probs": {
+        "neu": 0.096,
+        "hap": 0.102,
+        "ang": 0.004,
+        "sad": 0.798
+      }
+    }
+  },
+  {
+    "start": 217.64,
+    "end": 223.46,
+    "text": "stadium which was our most price stadium with more than one lack seating capacity had issues",
+    "text_emotion": {
+      "label": "sadness",
+      "score": 0.636
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.885,
+      "full_probs": {
+        "neu": 0.031,
+        "hap": 0.072,
+        "ang": 0.011,
+        "sad": 0.885
+      }
+    }
+  },
+  {
+    "start": 223.46,
+    "end": 229.46,
+    "text": "like ceilings or there was leakage in the ceilings. The bathroom facilities was my",
+    "text_emotion": {
+      "label": "disgust",
+      "score": 0.681
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.673,
+      "full_probs": {
+        "neu": 0.231,
+        "hap": 0.094,
+        "ang": 0.002,
+        "sad": 0.673
+      }
+    }
+  },
+  {
+    "start": 229.46,
+    "end": 235.56,
+    "text": "opportunity. It was not appropriate. So, if you like this would have more bad impact to us",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.514
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.696,
+      "full_probs": {
+        "neu": 0.168,
+        "hap": 0.058,
+        "ang": 0.077,
+        "sad": 0.696
+      }
+    }
+  },
+  {
+    "start": 235.56,
+    "end": 240.96,
+    "text": "than good impact. Furthermore, one last point I would like to say is that through all these",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.608
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.688,
+      "full_probs": {
+        "neu": 0.229,
+        "hap": 0.075,
+        "ang": 0.008,
+        "sad": 0.688
+      }
+    }
+  },
+  {
+    "start": 240.96,
+    "end": 247.12,
+    "text": "years for all the countries that have hosted the Olympics, it has been reported that they",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.712
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.915,
+      "full_probs": {
+        "neu": 0.051,
+        "hap": 0.026,
+        "ang": 0.008,
+        "sad": 0.915
+      }
+    }
+  },
+  {
+    "start": 247.12,
+    "end": 255.3,
+    "text": "have yet not financed it. So, even from the financial perspective, the Olympics is not",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.835
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.647,
+      "full_probs": {
+        "neu": 0.197,
+        "hap": 0.148,
+        "ang": 0.008,
+        "sad": 0.647
+      }
+    }
+  },
+  {
+    "start": 255.3,
+    "end": 263.22,
+    "text": "a very important point. I would like to add to this point that as I said that India is not",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.881
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.509,
+      "full_probs": {
+        "neu": 0.1,
+        "hap": 0.355,
+        "ang": 0.035,
+        "sad": 0.509
+      }
+    }
+  },
+  {
+    "start": 264.0,
+    "end": 271.08,
+    "text": "infrastructure ready for 20-36 Olympics. As we can see that the infrastructure that we",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.874
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.384,
+      "full_probs": {
+        "neu": 0.384,
+        "hap": 0.235,
+        "ang": 0.025,
+        "sad": 0.355
+      }
+    }
+  },
+  {
+    "start": 271.08,
+    "end": 277.96,
+    "text": "have currently apart from one context that is Amlaba, we do not have a sports infrastructure",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.861
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.37,
+      "full_probs": {
+        "neu": 0.234,
+        "hap": 0.37,
+        "ang": 0.141,
+        "sad": 0.254
+      }
+    }
+  },
+  {
+    "start": 277.96,
+    "end": 283.58,
+    "text": "in the present world, but we can host all kinds of sports. And we know that being an",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.886
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.612,
+      "full_probs": {
+        "neu": 0.055,
+        "hap": 0.269,
+        "ang": 0.064,
+        "sad": 0.612
+      }
+    }
+  },
+  {
+    "start": 283.58,
+    "end": 289.76,
+    "text": "Olympic sport has to host all kinds of sports, including different types of sports which",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.905
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.803,
+      "full_probs": {
+        "neu": 0.078,
+        "hap": 0.07,
+        "ang": 0.049,
+        "sad": 0.803
+      }
+    }
+  },
+  {
+    "start": 289.76,
+    "end": 294.64,
+    "text": "require different types of infrastructure which we currently do not have. And one more",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.923
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.362,
+      "full_probs": {
+        "neu": 0.313,
+        "hap": 0.318,
+        "ang": 0.007,
+        "sad": 0.362
+      }
+    }
+  },
+  {
+    "start": 294.64,
+    "end": 300.66,
+    "text": "thing we can add to this is that if we look into our past, how we have shared in all the",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.925
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.847,
+      "full_probs": {
+        "neu": 0.019,
+        "hap": 0.13,
+        "ang": 0.004,
+        "sad": 0.847
+      }
+    }
+  },
+  {
+    "start": 300.66,
+    "end": 305.84,
+    "text": "women or the national competitions that we have had in my three national competitions like",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.839
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.526,
+      "full_probs": {
+        "neu": 0.34,
+        "hap": 0.078,
+        "ang": 0.055,
+        "sad": 0.526
+      }
+    }
+  },
+  {
+    "start": 305.84,
+    "end": 314.78,
+    "text": "the 2010 Commonwealth Games and the other one we had in 1980s, we also had one Asian",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.686
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.412,
+      "full_probs": {
+        "neu": 0.412,
+        "hap": 0.195,
+        "ang": 0.022,
+        "sad": 0.372
+      }
+    }
+  },
+  {
+    "start": 314.78,
+    "end": 320.5,
+    "text": "Games. So, the Games were held at that time. We can see that there are major",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.89
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.538,
+      "full_probs": {
+        "neu": 0.075,
+        "hap": 0.332,
+        "ang": 0.056,
+        "sad": 0.538
+      }
+    }
+  },
+  {
+    "start": 320.5,
+    "end": 327.22,
+    "text": "approaches about discriminations that happen in the organization of the events. So, I",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.53
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.393,
+      "full_probs": {
+        "neu": 0.319,
+        "hap": 0.262,
+        "ang": 0.025,
+        "sad": 0.393
+      }
+    }
+  },
+  {
+    "start": 327.22,
+    "end": 332.34,
+    "text": "think what we can do is we have to improve our structure and our infrastructure strength.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.772
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.515,
+      "full_probs": {
+        "neu": 0.414,
+        "hap": 0.045,
+        "ang": 0.025,
+        "sad": 0.515
+      }
+    }
+  },
+  {
+    "start": 332.34,
+    "end": 338.54,
+    "text": "And we have to open more sports centers and we have to develop the talent so that we",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.884
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.526,
+      "full_probs": {
+        "neu": 0.115,
+        "hap": 0.338,
+        "ang": 0.022,
+        "sad": 0.526
+      }
+    }
+  },
+  {
+    "start": 338.54,
+    "end": 344.64,
+    "text": "can nurture the talent, the raw talent that we have. So, I think it is more applicable for",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.949
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.907,
+      "full_probs": {
+        "neu": 0.025,
+        "hap": 0.067,
+        "ang": 0.001,
+        "sad": 0.907
+      }
+    }
+  },
+  {
+    "start": 344.64,
+    "end": 352.24,
+    "text": "India to put this money and all the financial money into research and infrastructure development.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.816
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.495,
+      "full_probs": {
+        "neu": 0.339,
+        "hap": 0.143,
+        "ang": 0.023,
+        "sad": 0.495
+      }
+    }
+  },
+  {
+    "start": 352.96,
+    "end": 361.12,
+    "text": "So, I would like to add on all this in the formality. So, a stamp came out, the",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.92
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.977,
+      "full_probs": {
+        "neu": 0.017,
+        "hap": 0.006,
+        "ang": 0.0,
+        "sad": 0.977
+      }
+    }
+  },
+  {
+    "start": 361.12,
+    "end": 366.48,
+    "text": "footwork which is well-based in the day and the day and the day and the day and the",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.925
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.931,
+      "full_probs": {
+        "neu": 0.01,
+        "hap": 0.059,
+        "ang": 0.0,
+        "sad": 0.931
+      }
+    }
+  },
+  {
+    "start": 367.16,
+    "end": 374.8,
+    "text": "army had to be parted to bring it back up and just say things. So, many stadiums, since",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.679
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.845,
+      "full_probs": {
+        "neu": 0.047,
+        "hap": 0.107,
+        "ang": 0.001,
+        "sad": 0.845
+      }
+    }
+  },
+  {
+    "start": 374.8,
+    "end": 382.16,
+    "text": "I have been to them, I have visited them and they are in very good condition. So, in the",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.605
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.963,
+      "full_probs": {
+        "neu": 0.021,
+        "hap": 0.016,
+        "ang": 0.0,
+        "sad": 0.963
+      }
+    }
+  },
+  {
+    "start": 382.16,
+    "end": 388.02,
+    "text": "recent viral post, all of the most have seen how Jalen Stadium was elected for the Gheets",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.595
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.985,
+      "full_probs": {
+        "neu": 0.013,
+        "hap": 0.002,
+        "ang": 0.0,
+        "sad": 0.985
+      }
+    }
+  },
+  {
+    "start": 388.02,
+    "end": 393.1,
+    "text": "Concert and how it was lifted in such a bad condition that there was even two for",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.626
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.92,
+      "full_probs": {
+        "neu": 0.036,
+        "hap": 0.041,
+        "ang": 0.004,
+        "sad": 0.92
+      }
+    }
+  },
+  {
+    "start": 393.1,
+    "end": 399.74,
+    "text": "addition in the future for their panic for this sports etc. So, what I feel is India right now",
+    "text_emotion": {
+      "label": "fear",
+      "score": 0.989
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.824,
+      "full_probs": {
+        "neu": 0.067,
+        "hap": 0.103,
+        "ang": 0.006,
+        "sad": 0.824
+      }
+    }
+  },
+  {
+    "start": 399.74,
+    "end": 406.96,
+    "text": "is not ready for hosting all of these and as we saw in the 2020 or 23 Olympics that",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.631
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.912,
+      "full_probs": {
+        "neu": 0.016,
+        "hap": 0.071,
+        "ang": 0.002,
+        "sad": 0.912
+      }
+    }
+  },
+  {
+    "start": 406.96,
+    "end": 413.06,
+    "text": "have been in Qatar, before that it almost required a billion dollars and there was a very",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.623
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.535,
+      "full_probs": {
+        "neu": 0.029,
+        "hap": 0.431,
+        "ang": 0.006,
+        "sad": 0.535
+      }
+    }
+  },
+  {
+    "start": 413.06,
+    "end": 419.42,
+    "text": "little history behind the podium that happened. Many people were held hostage, their",
+    "text_emotion": {
+      "label": "fear",
+      "score": 0.296
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.918,
+      "full_probs": {
+        "neu": 0.024,
+        "hap": 0.055,
+        "ang": 0.003,
+        "sad": 0.918
+      }
+    }
+  },
+  {
+    "start": 419.42,
+    "end": 422.88,
+    "text": "past sports world captured and they were not allowed to return back.",
+    "text_emotion": {
+      "label": "sadness",
+      "score": 0.722
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.812,
+      "full_probs": {
+        "neu": 0.082,
+        "hap": 0.074,
+        "ang": 0.032,
+        "sad": 0.812
+      }
+    }
+  },
+  {
+    "start": 424.0,
+    "end": 443.04,
+    "text": "I guess we are going to add a point for the development because as we mentioned we are",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.956
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.743,
+      "full_probs": {
+        "neu": 0.104,
+        "hap": 0.143,
+        "ang": 0.009,
+        "sad": 0.743
+      }
+    }
+  },
+  {
+    "start": 443.04,
+    "end": 449.84,
+    "text": "going to be able to take the first step to develop it, inviting celebrities from all over",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.86
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.669,
+      "full_probs": {
+        "neu": 0.065,
+        "hap": 0.258,
+        "ang": 0.008,
+        "sad": 0.669
+      }
+    }
+  },
+  {
+    "start": 449.84,
+    "end": 454.2,
+    "text": "the world in their leagues. So, that can create a enlightenment for many sports that",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.908
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.612,
+      "full_probs": {
+        "neu": 0.023,
+        "hap": 0.328,
+        "ang": 0.036,
+        "sad": 0.612
+      }
+    }
+  },
+  {
+    "start": 454.2,
+    "end": 459.0,
+    "text": "you are not the goal of the population is not even aware of. So, that will help the",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.919
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.545,
+      "full_probs": {
+        "neu": 0.266,
+        "hap": 0.545,
+        "ang": 0.039,
+        "sad": 0.149
+      }
+    }
+  },
+  {
+    "start": 459.0,
+    "end": 465.0,
+    "text": "development. I would like to come through to the extent what difference UAE and Qatar",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.894
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.386,
+      "full_probs": {
+        "neu": 0.273,
+        "hap": 0.317,
+        "ang": 0.024,
+        "sad": 0.386
+      }
+    }
+  },
+  {
+    "start": 465.0,
+    "end": 470.6,
+    "text": "and we have, is that Qatar and UAE have used money, oil money, use it and spread",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.812
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.539,
+      "full_probs": {
+        "neu": 0.232,
+        "hap": 0.215,
+        "ang": 0.014,
+        "sad": 0.539
+      }
+    }
+  },
+  {
+    "start": 470.6,
+    "end": 476.66,
+    "text": "on these things. What we are we are developing nation and we need this fun store, have it,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.491
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.711,
+      "full_probs": {
+        "neu": 0.182,
+        "hap": 0.082,
+        "ang": 0.025,
+        "sad": 0.711
+      }
+    }
+  },
+  {
+    "start": 477.6,
+    "end": 483.82,
+    "text": "we have different fields, in which we can put this money on and I think other than that",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.943
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.462,
+      "full_probs": {
+        "neu": 0.101,
+        "hap": 0.415,
+        "ang": 0.022,
+        "sad": 0.462
+      }
+    }
+  },
+  {
+    "start": 483.82,
+    "end": 491.5,
+    "text": "we also use this money I think all of the heard about tops is a scheme for all of",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.94
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.333,
+      "full_probs": {
+        "neu": 0.327,
+        "hap": 0.26,
+        "ang": 0.08,
+        "sad": 0.333
+      }
+    }
+  },
+  {
+    "start": 491.5,
+    "end": 496.94,
+    "text": "the athletes, they are all of the better contenters. So, I think first of all we should use",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.945
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.387,
+      "full_probs": {
+        "neu": 0.212,
+        "hap": 0.387,
+        "ang": 0.014,
+        "sad": 0.387
+      }
+    }
+  },
+  {
+    "start": 496.94,
+    "end": 504.56,
+    "text": "this money to like train the athletes to that all of the international standards so that",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.518
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.622,
+      "full_probs": {
+        "neu": 0.164,
+        "hap": 0.199,
+        "ang": 0.016,
+        "sad": 0.622
+      }
+    }
+  },
+  {
+    "start": 504.56,
+    "end": 510.58,
+    "text": "they can perform well international and use this money in a more proper way.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.851
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.513,
+      "full_probs": {
+        "neu": 0.371,
+        "hap": 0.513,
+        "ang": 0.052,
+        "sad": 0.064
+      }
+    }
+  },
+  {
+    "start": 510.8,
+    "end": 515.5,
+    "text": "But I would like to contradict it. It is I think a more important thing that what is",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.776
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.883,
+      "full_probs": {
+        "neu": 0.026,
+        "hap": 0.082,
+        "ang": 0.009,
+        "sad": 0.883
+      }
+    }
+  },
+  {
+    "start": 515.55,
+    "end": 521.17,
+    "text": "I said is the vision of country to move forward in fitness in health and in other terms",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.837
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.956,
+      "full_probs": {
+        "neu": 0.011,
+        "hap": 0.029,
+        "ang": 0.004,
+        "sad": 0.956
+      }
+    }
+  },
+  {
+    "start": 521.17,
+    "end": 526.93,
+    "text": "for for example, let's let us take the example of Japan or China, how far clear. So, at any",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.952
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.402,
+      "full_probs": {
+        "neu": 0.324,
+        "hap": 0.402,
+        "ang": 0.047,
+        "sad": 0.228
+      }
+    }
+  },
+  {
+    "start": 526.93,
+    "end": 532.13,
+    "text": "point of time we need to take this tape forward, Qatar is so nothing comes between. I know",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.944
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.76,
+      "full_probs": {
+        "neu": 0.046,
+        "hap": 0.165,
+        "ang": 0.028,
+        "sad": 0.76
+      }
+    }
+  },
+  {
+    "start": 532.13,
+    "end": 536.95,
+    "text": "that there may be some infrastructural causes which you have mentioned and other than",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.807
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.511,
+      "full_probs": {
+        "neu": 0.511,
+        "hap": 0.188,
+        "ang": 0.007,
+        "sad": 0.294
+      }
+    }
+  },
+  {
+    "start": 536.95,
+    "end": 541.59,
+    "text": "Romania there is also mentioned some traditional causes also. But I think this is the",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.938
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.781,
+      "full_probs": {
+        "neu": 0.167,
+        "hap": 0.044,
+        "ang": 0.008,
+        "sad": 0.781
+      }
+    }
+  },
+  {
+    "start": 541.59,
+    "end": 546.77,
+    "text": "concept for the academia. We have building our relation with other countries also a point",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.883
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.611,
+      "full_probs": {
+        "neu": 0.226,
+        "hap": 0.138,
+        "ang": 0.025,
+        "sad": 0.611
+      }
+    }
+  },
+  {
+    "start": 546.77,
+    "end": 552.11,
+    "text": "which I think should be taken into care. Another thing is that if something has",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.908
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.719,
+      "full_probs": {
+        "neu": 0.104,
+        "hap": 0.159,
+        "ang": 0.018,
+        "sad": 0.719
+      }
+    }
+  },
+  {
+    "start": 552.11,
+    "end": 556.65,
+    "text": "been lost or seen on this, it doesn't mean that everyone will need a loss. I think",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.917
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.671,
+      "full_probs": {
+        "neu": 0.127,
+        "hap": 0.173,
+        "ang": 0.029,
+        "sad": 0.671
+      }
+    }
+  },
+  {
+    "start": 556.65,
+    "end": 560.99,
+    "text": "we should take this opportunity, have a good marketing, have something that will",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.945
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.697,
+      "full_probs": {
+        "neu": 0.136,
+        "hap": 0.163,
+        "ang": 0.005,
+        "sad": 0.697
+      }
+    }
+  },
+  {
+    "start": 560.99,
+    "end": 565.91,
+    "text": "differentiate us, maybe our digitalism that we can be a point which we can put forward",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.933
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.529,
+      "full_probs": {
+        "neu": 0.151,
+        "hap": 0.529,
+        "ang": 0.001,
+        "sad": 0.319
+      }
+    }
+  },
+  {
+    "start": 565.91,
+    "end": 569.73,
+    "text": "in that maybe people would like more. This is a risk and I think we should take a",
+    "text_emotion": {
+      "label": "fear",
+      "score": 0.59
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.908,
+      "full_probs": {
+        "neu": 0.037,
+        "hap": 0.051,
+        "ang": 0.004,
+        "sad": 0.908
+      }
+    }
+  },
+  {
+    "start": 569.73,
+    "end": 574.59,
+    "text": "little bit of risk because of the 1980 to 1980 open the markets for the",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.57
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.552,
+      "full_probs": {
+        "neu": 0.139,
+        "hap": 0.293,
+        "ang": 0.017,
+        "sad": 0.552
+      }
+    }
+  },
+  {
+    "start": 574.59,
+    "end": 579.01,
+    "text": "digitalism, Dr. Malmone Singh. He opened the market and as you know the",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.786
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.776,
+      "full_probs": {
+        "neu": 0.106,
+        "hap": 0.116,
+        "ang": 0.002,
+        "sad": 0.776
+      }
+    }
+  },
+  {
+    "start": 579.01,
+    "end": 583.41,
+    "text": "NPG, the relationship that this is going to be relation. It was a huge risk. But I",
+    "text_emotion": {
+      "label": "fear",
+      "score": 0.705
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.887,
+      "full_probs": {
+        "neu": 0.05,
+        "hap": 0.063,
+        "ang": 0.0,
+        "sad": 0.887
+      }
+    }
+  },
+  {
+    "start": 583.41,
+    "end": 588.03,
+    "text": "think whatever we enjoy today from Pepsi or even this light goes all this is",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.75
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.679,
+      "full_probs": {
+        "neu": 0.065,
+        "hap": 0.15,
+        "ang": 0.106,
+        "sad": 0.679
+      }
+    }
+  },
+  {
+    "start": 588.03,
+    "end": 591.27,
+    "text": "a point of the world. But it helps us to educate and see the health and help us",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.901
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.907,
+      "full_probs": {
+        "neu": 0.014,
+        "hap": 0.076,
+        "ang": 0.003,
+        "sad": 0.907
+      }
+    }
+  },
+  {
+    "start": 591.27,
+    "end": 595.19,
+    "text": "to support putting cat. So this was a risk which resulted today, you know a good cat",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.682
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.806,
+      "full_probs": {
+        "neu": 0.107,
+        "hap": 0.085,
+        "ang": 0.002,
+        "sad": 0.806
+      }
+    }
+  },
+  {
+    "start": 595.19,
+    "end": 598.95,
+    "text": "person lives in a bright future. I think this Olympics is also a",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.934
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.482,
+      "full_probs": {
+        "neu": 0.264,
+        "hap": 0.223,
+        "ang": 0.03,
+        "sad": 0.482
+      }
+    }
+  },
+  {
+    "start": 598.95,
+    "end": 602.67,
+    "text": "opportunity for us. The people should know that India has grown. People should",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.928
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.975,
+      "full_probs": {
+        "neu": 0.007,
+        "hap": 0.015,
+        "ang": 0.003,
+        "sad": 0.975
+      }
+    }
+  },
+  {
+    "start": 602.67,
+    "end": 606.79,
+    "text": "not know that it is 1947, which is keeping it in and have low money, have",
+    "text_emotion": {
+      "label": "surprise",
+      "score": 0.461
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.677,
+      "full_probs": {
+        "neu": 0.061,
+        "hap": 0.255,
+        "ang": 0.008,
+        "sad": 0.677
+      }
+    }
+  },
+  {
+    "start": 606.79,
+    "end": 610.55,
+    "text": "ourselves. They should feel like we have grown and we have the power, we have",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.801
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.694,
+      "full_probs": {
+        "neu": 0.031,
+        "hap": 0.694,
+        "ang": 0.018,
+        "sad": 0.257
+      }
+    }
+  },
+  {
+    "start": 610.55,
+    "end": 613.69,
+    "text": "the cat. And also now we're not the one who sidebacks on our",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.522
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.97,
+      "full_probs": {
+        "neu": 0.009,
+        "hap": 0.02,
+        "ang": 0.001,
+        "sad": 0.97
+      }
+    }
+  },
+  {
+    "start": 613.69,
+    "end": 617.05,
+    "text": "project. We are the one who go forward, take rights and this is the",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.937
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.895,
+      "full_probs": {
+        "neu": 0.031,
+        "hap": 0.072,
+        "ang": 0.001,
+        "sad": 0.895
+      }
+    }
+  },
+  {
+    "start": 617.05,
+    "end": 620.87,
+    "text": "opportunity which will take 100% and this is an amazing, this is a",
+    "text_emotion": {
+      "label": "surprise",
+      "score": 0.68
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.623,
+      "full_probs": {
+        "neu": 0.12,
+        "hap": 0.237,
+        "ang": 0.019,
+        "sad": 0.623
+      }
+    }
+  },
+  {
+    "start": 620.87,
+    "end": 623.61,
+    "text": "great opportunity. So we are the next going on.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.836
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.546,
+      "full_probs": {
+        "neu": 0.004,
+        "hap": 0.448,
+        "ang": 0.003,
+        "sad": 0.546
+      }
+    }
+  },
+  {
+    "start": 623.89,
+    "end": 629.51,
+    "text": "I think one point is starting one point. So it is saying that in",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.939
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.528,
+      "full_probs": {
+        "neu": 0.174,
+        "hap": 0.528,
+        "ang": 0.028,
+        "sad": 0.27
+      }
+    }
+  },
+  {
+    "start": 629.51,
+    "end": 633.71,
+    "text": "previous developing and developing countries what we saw was when a",
+    "text_emotion": {
+      "label": "surprise",
+      "score": 0.566
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.642,
+      "full_probs": {
+        "neu": 0.09,
+        "hap": 0.263,
+        "ang": 0.004,
+        "sad": 0.642
+      }
+    }
+  },
+  {
+    "start": 633.71,
+    "end": 639.63,
+    "text": "country hits a GDP of, but after a GDP of 500 dollars, then they tend to",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.462
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.811,
+      "full_probs": {
+        "neu": 0.109,
+        "hap": 0.063,
+        "ang": 0.016,
+        "sad": 0.811
+      }
+    }
+  },
+  {
+    "start": 639.63,
+    "end": 643.65,
+    "text": "go towards failure products. So when they have some amount to spend, they move",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.854
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.874,
+      "full_probs": {
+        "neu": 0.021,
+        "hap": 0.093,
+        "ang": 0.011,
+        "sad": 0.874
+      }
+    }
+  },
+  {
+    "start": 643.65,
+    "end": 649.43,
+    "text": "towards failure. And when they go from 500 to 2000 to 2500 dollars as they",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.826
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.958,
+      "full_probs": {
+        "neu": 0.006,
+        "hap": 0.015,
+        "ang": 0.022,
+        "sad": 0.958
+      }
+    }
+  },
+  {
+    "start": 649.43,
+    "end": 653.69,
+    "text": "were capital GDP, they have money to spend. That is when they go from",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.876
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.687,
+      "full_probs": {
+        "neu": 0.041,
+        "hap": 0.235,
+        "ang": 0.036,
+        "sad": 0.687
+      }
+    }
+  },
+  {
+    "start": 653.69,
+    "end": 656.39,
+    "text": "bakery towards witness. They go into the lower products by",
+    "text_emotion": {
+      "label": "disgust",
+      "score": 0.755
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.591,
+      "full_probs": {
+        "neu": 0.053,
+        "hap": 0.336,
+        "ang": 0.02,
+        "sad": 0.591
+      }
+    }
+  },
+  {
+    "start": 656.39,
+    "end": 659.99,
+    "text": "things. So are you telling them what happens is serious, what",
+    "text_emotion": {
+      "label": "sadness",
+      "score": 0.26
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.674,
+      "full_probs": {
+        "neu": 0.202,
+        "hap": 0.045,
+        "ang": 0.079,
+        "sad": 0.674
+      }
+    }
+  },
+  {
+    "start": 659.99,
+    "end": 662.85,
+    "text": "the future is. Do you think that the future, the issue doesn't",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.819
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.945,
+      "full_probs": {
+        "neu": 0.02,
+        "hap": 0.033,
+        "ang": 0.002,
+        "sad": 0.945
+      }
+    }
+  },
+  {
+    "start": 662.85,
+    "end": 666.35,
+    "text": "have AI, the future will have, maybe the history is, it was not",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.869
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.625,
+      "full_probs": {
+        "neu": 0.082,
+        "hap": 0.292,
+        "ang": 0.002,
+        "sad": 0.625
+      }
+    }
+  },
+  {
+    "start": 666.35,
+    "end": 669.45,
+    "text": "between millions. We can, I think we have the opportunity and we have",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.876
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.737,
+      "full_probs": {
+        "neu": 0.038,
+        "hap": 0.179,
+        "ang": 0.045,
+        "sad": 0.737
+      }
+    }
+  },
+  {
+    "start": 669.45,
+    "end": 673.73,
+    "text": "the talented India. I'm not talking about the future of it. I'm",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.896
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.766,
+      "full_probs": {
+        "neu": 0.086,
+        "hap": 0.142,
+        "ang": 0.006,
+        "sad": 0.766
+      }
+    }
+  },
+  {
+    "start": 673.73,
+    "end": 676.53,
+    "text": "talking about the disposable income that we have to spend on those",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.776
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.854,
+      "full_probs": {
+        "neu": 0.034,
+        "hap": 0.106,
+        "ang": 0.006,
+        "sad": 0.854
+      }
+    }
+  },
+  {
+    "start": 676.53,
+    "end": 679.71,
+    "text": "witness points. I have already taken into account. It's a risk, but we need",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.708
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.683,
+      "full_probs": {
+        "neu": 0.683,
+        "hap": 0.026,
+        "ang": 0.003,
+        "sad": 0.288
+      }
+    }
+  },
+  {
+    "start": 679.71,
+    "end": 682.73,
+    "text": "to take it to move forward. Okay, I'm okay, I understand you",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.683
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.926,
+      "full_probs": {
+        "neu": 0.052,
+        "hap": 0.019,
+        "ang": 0.002,
+        "sad": 0.926
+      }
+    }
+  },
+  {
+    "start": 682.73,
+    "end": 686.87,
+    "text": "really. But when it comes to promoting this, I see the vision of",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.804
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.749,
+      "full_probs": {
+        "neu": 0.125,
+        "hap": 0.118,
+        "ang": 0.008,
+        "sad": 0.749
+      }
+    }
+  },
+  {
+    "start": 686.87,
+    "end": 689.01,
+    "text": "you, I'm talking about the risk of the risk of the movie. It's been",
+    "text_emotion": {
+      "label": "fear",
+      "score": 0.775
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.872,
+      "full_probs": {
+        "neu": 0.118,
+        "hap": 0.009,
+        "ang": 0.001,
+        "sad": 0.872
+      }
+    }
+  },
+  {
+    "start": 689.01,
+    "end": 693.95,
+    "text": "promoting you. And I think it also is a part of the culture. So,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.944
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.653,
+      "full_probs": {
+        "neu": 0.056,
+        "hap": 0.266,
+        "ang": 0.025,
+        "sad": 0.653
+      }
+    }
+  },
+  {
+    "start": 694.25,
+    "end": 697.55,
+    "text": "so I think that should be something that we should look at because it's",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.783
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.828,
+      "full_probs": {
+        "neu": 0.099,
+        "hap": 0.059,
+        "ang": 0.014,
+        "sad": 0.828
+      }
+    }
+  },
+  {
+    "start": 697.55,
+    "end": 701.99,
+    "text": "a better alternative and a less riskier alternative to personal",
+    "text_emotion": {
+      "label": "fear",
+      "score": 0.773
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.579,
+      "full_probs": {
+        "neu": 0.099,
+        "hap": 0.249,
+        "ang": 0.073,
+        "sad": 0.579
+      }
+    }
+  },
+  {
+    "start": 701.99,
+    "end": 706.37,
+    "text": "projects. Talking about representing our shares, there are a lot of",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.938
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.676,
+      "full_probs": {
+        "neu": 0.237,
+        "hap": 0.081,
+        "ang": 0.007,
+        "sad": 0.676
+      }
+    }
+  },
+  {
+    "start": 706.37,
+    "end": 708.59,
+    "text": "small-fledged opportunities from that group. It's called a",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.921
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.699,
+      "full_probs": {
+        "neu": 0.282,
+        "hap": 0.003,
+        "ang": 0.016,
+        "sad": 0.699
+      }
+    }
+  },
+  {
+    "start": 708.59,
+    "end": 712.51,
+    "text": "bridge that comes with Asian games. When we can take the initiative",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.748
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.476,
+      "full_probs": {
+        "neu": 0.195,
+        "hap": 0.321,
+        "ang": 0.007,
+        "sad": 0.476
+      }
+    }
+  },
+  {
+    "start": 712.51,
+    "end": 716.35,
+    "text": "to post, we can start from a small stage and maybe when we have",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.912
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.903,
+      "full_probs": {
+        "neu": 0.059,
+        "hap": 0.036,
+        "ang": 0.003,
+        "sad": 0.903
+      }
+    }
+  },
+  {
+    "start": 716.35,
+    "end": 721.75,
+    "text": "fully ready financially and say financially, we can recover from",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.791
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.739,
+      "full_probs": {
+        "neu": 0.095,
+        "hap": 0.165,
+        "ang": 0.001,
+        "sad": 0.739
+      }
+    }
+  },
+  {
+    "start": 721.75,
+    "end": 726.35,
+    "text": "such games that we represent our shares is where I feel we should",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.645
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.548,
+      "full_probs": {
+        "neu": 0.421,
+        "hap": 0.025,
+        "ang": 0.007,
+        "sad": 0.548
+      }
+    }
+  },
+  {
+    "start": 726.35,
+    "end": 729.71,
+    "text": "move forward. Right now we are not fully different for certain",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.898
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.967,
+      "full_probs": {
+        "neu": 0.011,
+        "hap": 0.021,
+        "ang": 0.001,
+        "sad": 0.967
+      }
+    }
+  },
+  {
+    "start": 729.71,
+    "end": 734.39,
+    "text": "things. I think I would say that I also have a power lift. So, I have",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.934
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.862,
+      "full_probs": {
+        "neu": 0.12,
+        "hap": 0.018,
+        "ang": 0.0,
+        "sad": 0.862
+      }
+    }
+  },
+  {
+    "start": 734.39,
+    "end": 739.47,
+    "text": "been on in competitions, I can see that the infrastructure that they have",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.876
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.768,
+      "full_probs": {
+        "neu": 0.154,
+        "hap": 0.078,
+        "ang": 0.001,
+        "sad": 0.768
+      }
+    }
+  },
+  {
+    "start": 739.47,
+    "end": 744.65,
+    "text": "the safety that in regards compared to Europe or US, we do not have",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.872
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.969,
+      "full_probs": {
+        "neu": 0.013,
+        "hap": 0.015,
+        "ang": 0.003,
+        "sad": 0.969
+      }
+    }
+  },
+  {
+    "start": 744.65,
+    "end": 749.29,
+    "text": "that. The basic understanding of fitness is right or not",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.867
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.656,
+      "full_probs": {
+        "neu": 0.313,
+        "hap": 0.028,
+        "ang": 0.003,
+        "sad": 0.656
+      }
+    }
+  },
+  {
+    "start": 749.29,
+    "end": 754.09,
+    "text": "rigid. That comes with the GDP richer certainly. I think I have",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.849
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.434,
+      "full_probs": {
+        "neu": 0.434,
+        "hap": 0.107,
+        "ang": 0.031,
+        "sad": 0.427
+      }
+    }
+  },
+  {
+    "start": 754.09,
+    "end": 756.93,
+    "text": "led to quantitative. How many of you know that you are going to",
+    "text_emotion": {
+      "label": "surprise",
+      "score": 0.674
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.755,
+      "full_probs": {
+        "neu": 0.114,
+        "hap": 0.126,
+        "ang": 0.004,
+        "sad": 0.755
+      }
+    }
+  },
+  {
+    "start": 757.69,
+    "end": 760.75,
+    "text": "be able to get out of the building? So, I think we are, so you know people",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.571
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.924,
+      "full_probs": {
+        "neu": 0.033,
+        "hap": 0.036,
+        "ang": 0.007,
+        "sad": 0.924
+      }
+    }
+  },
+  {
+    "start": 760.75,
+    "end": 764.65,
+    "text": "are out of the building. We knew through Asian games and that's not",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.861
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.981,
+      "full_probs": {
+        "neu": 0.009,
+        "hap": 0.008,
+        "ang": 0.001,
+        "sad": 0.981
+      }
+    }
+  },
+  {
+    "start": 764.65,
+    "end": 768.11,
+    "text": "a good point. It was a world-fledged initiative. It can come on Asian games.",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.924
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.726,
+      "full_probs": {
+        "neu": 0.16,
+        "hap": 0.111,
+        "ang": 0.004,
+        "sad": 0.726
+      }
+    }
+  },
+  {
+    "start": 768.47,
+    "end": 770.99,
+    "text": "That's the only small scale and maybe when we have 80,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.913
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.919,
+      "full_probs": {
+        "neu": 0.033,
+        "hap": 0.047,
+        "ang": 0.001,
+        "sad": 0.919
+      }
+    }
+  },
+  {
+    "start": 771.19,
+    "end": 774.91,
+    "text": "finally we can move to Olympics. It's a very big step. So, so do you think",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.683
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.836,
+      "full_probs": {
+        "neu": 0.12,
+        "hap": 0.036,
+        "ang": 0.008,
+        "sad": 0.836
+      }
+    }
+  },
+  {
+    "start": 774.91,
+    "end": 778.07,
+    "text": "how many years will it end? I don't think thinking about it is a",
+    "text_emotion": {
+      "label": "surprise",
+      "score": 0.716
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.863,
+      "full_probs": {
+        "neu": 0.027,
+        "hap": 0.104,
+        "ang": 0.006,
+        "sad": 0.863
+      }
+    }
+  },
+  {
+    "start": 778.07,
+    "end": 781.37,
+    "text": "very powerful and we wait for the right hand to move. So, I would also",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.927
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.82,
+      "full_probs": {
+        "neu": 0.019,
+        "hap": 0.143,
+        "ang": 0.018,
+        "sad": 0.82
+      }
+    }
+  },
+  {
+    "start": 781.37,
+    "end": 783.85,
+    "text": "have to consider one of the first to venture to know the place. We did",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.532
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.669,
+      "full_probs": {
+        "neu": 0.19,
+        "hap": 0.139,
+        "ang": 0.002,
+        "sad": 0.669
+      }
+    }
+  },
+  {
+    "start": 783.85,
+    "end": 787.93,
+    "text": "that in guess being a problem is that present if you see in the world",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.755
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.86,
+      "full_probs": {
+        "neu": 0.09,
+        "hap": 0.046,
+        "ang": 0.004,
+        "sad": 0.86
+      }
+    }
+  },
+  {
+    "start": 787.93,
+    "end": 791.11,
+    "text": "forums, there's a growing amount of discreet. There's a lot of people,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.905
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.95,
+      "full_probs": {
+        "neu": 0.028,
+        "hap": 0.021,
+        "ang": 0.0,
+        "sad": 0.95
+      }
+    }
+  },
+  {
+    "start": 791.35,
+    "end": 794.91,
+    "text": "a lot of sort of discreet, especially in the UK and 30s. And one thing",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.953
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.619,
+      "full_probs": {
+        "neu": 0.103,
+        "hap": 0.275,
+        "ang": 0.003,
+        "sad": 0.619
+      }
+    }
+  },
+  {
+    "start": 794.91,
+    "end": 797.47,
+    "text": "there have been targeting is the Indians and how they have been",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.885
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.483,
+      "full_probs": {
+        "neu": 0.483,
+        "hap": 0.246,
+        "ang": 0.003,
+        "sad": 0.268
+      }
+    }
+  },
+  {
+    "start": 797.47,
+    "end": 801.27,
+    "text": "approaching every year. When we make a lot of users, also you know",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.917
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.853,
+      "full_probs": {
+        "neu": 0.107,
+        "hap": 0.04,
+        "ang": 0.0,
+        "sad": 0.853
+      }
+    }
+  },
+  {
+    "start": 801.27,
+    "end": 803.43,
+    "text": "what you're from all of these people, you know, all those are trying to",
+    "text_emotion": {
+      "label": "surprise",
+      "score": 0.46
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.642,
+      "full_probs": {
+        "neu": 0.288,
+        "hap": 0.065,
+        "ang": 0.004,
+        "sad": 0.642
+      }
+    }
+  },
+  {
+    "start": 803.43,
+    "end": 806.35,
+    "text": "come into India and in order to hear, sports can also give you a",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.854
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.725,
+      "full_probs": {
+        "neu": 0.164,
+        "hap": 0.109,
+        "ang": 0.002,
+        "sad": 0.725
+      }
+    }
+  },
+  {
+    "start": 806.35,
+    "end": 808.97,
+    "text": "country as a whole. So, you have to take into account to",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.923
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.951,
+      "full_probs": {
+        "neu": 0.018,
+        "hap": 0.028,
+        "ang": 0.003,
+        "sad": 0.951
+      }
+    }
+  },
+  {
+    "start": 808.97,
+    "end": 812.35,
+    "text": "review the facts that some of the years of India, the day would be",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.848
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.984,
+      "full_probs": {
+        "neu": 0.007,
+        "hap": 0.009,
+        "ang": 0.0,
+        "sad": 0.984
+      }
+    }
+  },
+  {
+    "start": 812.35,
+    "end": 815.23,
+    "text": "seeing a lot more than pretty much and they are going to be a lot",
+    "text_emotion": {
+      "label": "surprise",
+      "score": 0.744
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.632,
+      "full_probs": {
+        "neu": 0.01,
+        "hap": 0.351,
+        "ang": 0.006,
+        "sad": 0.632
+      }
+    }
+  },
+  {
+    "start": 815.23,
+    "end": 817.79,
+    "text": "of question in all over the world and they will become a free of",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.784
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.943,
+      "full_probs": {
+        "neu": 0.021,
+        "hap": 0.028,
+        "ang": 0.008,
+        "sad": 0.943
+      }
+    }
+  },
+  {
+    "start": 817.79,
+    "end": 820.79,
+    "text": "it because it is in the nature of people to work. I would like",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.573
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.966,
+      "full_probs": {
+        "neu": 0.017,
+        "hap": 0.016,
+        "ang": 0.001,
+        "sad": 0.966
+      }
+    }
+  },
+  {
+    "start": 820.79,
+    "end": 824.17,
+    "text": "to come to a point by saying that Columbus is the rate of",
+    "text_emotion": {
+      "label": "surprise",
+      "score": 0.488
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.541,
+      "full_probs": {
+        "neu": 0.345,
+        "hap": 0.111,
+        "ang": 0.002,
+        "sad": 0.541
+      }
+    }
+  },
+  {
+    "start": 824.17,
+    "end": 828.09,
+    "text": "community to showcase our so-called ending rate and this is",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.611
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.634,
+      "full_probs": {
+        "neu": 0.254,
+        "hap": 0.111,
+        "ang": 0.0,
+        "sad": 0.634
+      }
+    }
+  },
+  {
+    "start": 828.09,
+    "end": 831.71,
+    "text": "amazing. That is content among the Europeans for the Indians.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.469
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.631,
+      "full_probs": {
+        "neu": 0.187,
+        "hap": 0.18,
+        "ang": 0.001,
+        "sad": 0.631
+      }
+    }
+  },
+  {
+    "start": 832.15,
+    "end": 837.53,
+    "text": "Can be put away by Columbus. You can showcase our talent, our",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.848
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.611,
+      "full_probs": {
+        "neu": 0.119,
+        "hap": 0.269,
+        "ang": 0.001,
+        "sad": 0.611
+      }
+    }
+  },
+  {
+    "start": 837.53,
+    "end": 841.75,
+    "text": "sports talent and our culture through our own things. As well as",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.928
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.886,
+      "full_probs": {
+        "neu": 0.081,
+        "hap": 0.032,
+        "ang": 0.0,
+        "sad": 0.886
+      }
+    }
+  },
+  {
+    "start": 841.75,
+    "end": 845.83,
+    "text": "the people that will be able to use the one up to stand, be used to",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.929
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.891,
+      "full_probs": {
+        "neu": 0.049,
+        "hap": 0.06,
+        "ang": 0.0,
+        "sad": 0.891
+      }
+    }
+  },
+  {
+    "start": 845.83,
+    "end": 850.03,
+    "text": "put a train that means it will be good for the sports community.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.741
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.926,
+      "full_probs": {
+        "neu": 0.07,
+        "hap": 0.004,
+        "ang": 0.0,
+        "sad": 0.926
+      }
+    }
+  },
+  {
+    "start": 850.33,
+    "end": 854.29,
+    "text": "Can I ask for some kind of support?",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.673
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.846,
+      "full_probs": {
+        "neu": 0.039,
+        "hap": 0.112,
+        "ang": 0.002,
+        "sad": 0.846
+      }
+    }
+  },
+  {
+    "start": 854.47,
+    "end": 857.53,
+    "text": "Yes, I do. I will go to the point of finance finances.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.909
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.716,
+      "full_probs": {
+        "neu": 0.241,
+        "hap": 0.716,
+        "ang": 0.003,
+        "sad": 0.041
+      }
+    }
+  },
+  {
+    "start": 857.93,
+    "end": 861.19,
+    "text": "Yes, already equipped with finances. As we all know, recently",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.873
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.603,
+      "full_probs": {
+        "neu": 0.603,
+        "hap": 0.071,
+        "ang": 0.039,
+        "sad": 0.287
+      }
+    }
+  },
+  {
+    "start": 861.19,
+    "end": 864.01,
+    "text": "Prime Minister Helene Milley has elaborated to be a parliament.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.928
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.521,
+      "full_probs": {
+        "neu": 0.521,
+        "hap": 0.022,
+        "ang": 0.005,
+        "sad": 0.452
+      }
+    }
+  },
+  {
+    "start": 864.67,
+    "end": 868.23,
+    "text": "The role of the Klingya has spent around 100 crores of more of building",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.922
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.673,
+      "full_probs": {
+        "neu": 0.235,
+        "hap": 0.088,
+        "ang": 0.004,
+        "sad": 0.673
+      }
+    }
+  },
+  {
+    "start": 869.15,
+    "end": 873.35,
+    "text": "and it was not that much required. Instead, that's when we could",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.858
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.484,
+      "full_probs": {
+        "neu": 0.174,
+        "hap": 0.312,
+        "ang": 0.03,
+        "sad": 0.484
+      }
+    }
+  },
+  {
+    "start": 873.35,
+    "end": 878.29,
+    "text": "help the Indians for promoting these things. Plus, when you make sure you",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.888
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.682,
+      "full_probs": {
+        "neu": 0.061,
+        "hap": 0.254,
+        "ang": 0.003,
+        "sad": 0.682
+      }
+    }
+  },
+  {
+    "start": 878.29,
+    "end": 882.13,
+    "text": "are going to the stadium and end of it, that problem is more of",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.735
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.513,
+      "full_probs": {
+        "neu": 0.364,
+        "hap": 0.066,
+        "ang": 0.057,
+        "sad": 0.513
+      }
+    }
+  },
+  {
+    "start": 882.13,
+    "end": 885.07,
+    "text": "a lot of management and our finance. So you do not have to talk to",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.879
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.417,
+      "full_probs": {
+        "neu": 0.417,
+        "hap": 0.173,
+        "ang": 0.061,
+        "sad": 0.349
+      }
+    }
+  },
+  {
+    "start": 885.07,
+    "end": 891.59,
+    "text": "management to properly manage your events. That is where the problems",
+    "text_emotion": {
+      "label": "sadness",
+      "score": 0.481
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.437,
+      "full_probs": {
+        "neu": 0.437,
+        "hap": 0.311,
+        "ang": 0.073,
+        "sad": 0.179
+      }
+    }
+  },
+  {
+    "start": 891.59,
+    "end": 894.93,
+    "text": "are going to come. I will go to the point. I hope so. Let's go to",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.806
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.513,
+      "full_probs": {
+        "neu": 0.297,
+        "hap": 0.183,
+        "ang": 0.008,
+        "sad": 0.513
+      }
+    }
+  },
+  {
+    "start": 897.33,
+    "end": 898.39,
+    "text": "the next topic.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.879
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.499,
+      "full_probs": {
+        "neu": 0.397,
+        "hap": 0.499,
+        "ang": 0.054,
+        "sad": 0.05
+      }
+    }
+  },
+  {
+    "start": 898.39,
+    "end": 901.23,
+    "text": "First of you guys talked about that India being a developing",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.822
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.548,
+      "full_probs": {
+        "neu": 0.076,
+        "hap": 0.367,
+        "ang": 0.009,
+        "sad": 0.548
+      }
+    }
+  },
+  {
+    "start": 901.23,
+    "end": 904.45,
+    "text": "country. We are not boosting the Olympics right now.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.72
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.466,
+      "full_probs": {
+        "neu": 0.232,
+        "hap": 0.278,
+        "ang": 0.024,
+        "sad": 0.466
+      }
+    }
+  },
+  {
+    "start": 905.21,
+    "end": 907.67,
+    "text": "As you said, in days that developing countries in the next five",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.62
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.654,
+      "full_probs": {
+        "neu": 0.042,
+        "hap": 0.654,
+        "ang": 0.01,
+        "sad": 0.294
+      }
+    }
+  },
+  {
+    "start": 907.67,
+    "end": 911.31,
+    "text": "years India would be part of a developed country. As that",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.668
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.769,
+      "full_probs": {
+        "neu": 0.103,
+        "hap": 0.113,
+        "ang": 0.016,
+        "sad": 0.769
+      }
+    }
+  },
+  {
+    "start": 911.31,
+    "end": 915.37,
+    "text": "take away, the stress point or India would be boosting",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.802
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.955,
+      "full_probs": {
+        "neu": 0.019,
+        "hap": 0.024,
+        "ang": 0.002,
+        "sad": 0.955
+      }
+    }
+  },
+  {
+    "start": 915.37,
+    "end": 918.31,
+    "text": "tourism. At all, Olympics would be a great opportunity",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.886
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.485,
+      "full_probs": {
+        "neu": 0.062,
+        "hap": 0.443,
+        "ang": 0.009,
+        "sad": 0.485
+      }
+    }
+  },
+  {
+    "start": 919.05,
+    "end": 922.77,
+    "text": "to boost the tourism as well as to give an engaged audience",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.943
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.844,
+      "full_probs": {
+        "neu": 0.031,
+        "hap": 0.117,
+        "ang": 0.008,
+        "sad": 0.844
+      }
+    }
+  },
+  {
+    "start": 922.77,
+    "end": 924.05,
+    "text": "It consists from all over the world.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.918
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.465,
+      "full_probs": {
+        "neu": 0.361,
+        "hap": 0.465,
+        "ang": 0.131,
+        "sad": 0.042
+      }
+    }
+  },
+  {
+    "start": 924.41,
+    "end": 927.55,
+    "text": "So in that, it is not just a financial burden,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.924
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.618,
+      "full_probs": {
+        "neu": 0.618,
+        "hap": 0.123,
+        "ang": 0.073,
+        "sad": 0.187
+      }
+    }
+  },
+  {
+    "start": 927.77,
+    "end": 931.15,
+    "text": "but it is a great opportunity to make India like,",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.966
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.533,
+      "full_probs": {
+        "neu": 0.016,
+        "hap": 0.533,
+        "ang": 0.016,
+        "sad": 0.436
+      }
+    }
+  },
+  {
+    "start": 932.15,
+    "end": 933.63,
+    "text": "make the other world like,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.855
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.664,
+      "full_probs": {
+        "neu": 0.067,
+        "hap": 0.664,
+        "ang": 0.19,
+        "sad": 0.079
+      }
+    }
+  },
+  {
+    "start": 933.89,
+    "end": 936.61,
+    "text": "all the rest of the world have a different view about India.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.914
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.325,
+      "full_probs": {
+        "neu": 0.279,
+        "hap": 0.325,
+        "ang": 0.081,
+        "sad": 0.315
+      }
+    }
+  },
+  {
+    "start": 937.27,
+    "end": 939.67,
+    "text": "Instead of just a view of an developing country,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.925
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.842,
+      "full_probs": {
+        "neu": 0.103,
+        "hap": 0.009,
+        "ang": 0.046,
+        "sad": 0.842
+      }
+    }
+  },
+  {
+    "start": 939.79,
+    "end": 940.57,
+    "text": "which you guys mentioned.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.872
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.612,
+      "full_probs": {
+        "neu": 0.612,
+        "hap": 0.299,
+        "ang": 0.049,
+        "sad": 0.04
+      }
+    }
+  },
+  {
+    "start": 941.03,
+    "end": 943.41,
+    "text": "I would like to point to that out,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.83
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.703,
+      "full_probs": {
+        "neu": 0.121,
+        "hap": 0.095,
+        "ang": 0.081,
+        "sad": 0.703
+      }
+    }
+  },
+  {
+    "start": 943.77,
+    "end": 946.01,
+    "text": "that the other colleague talked about Kajya.",
+    "text_emotion": {
+      "label": "disgust",
+      "score": 0.814
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.716,
+      "full_probs": {
+        "neu": 0.054,
+        "hap": 0.165,
+        "ang": 0.065,
+        "sad": 0.716
+      }
+    }
+  },
+  {
+    "start": 946.43,
+    "end": 947.51,
+    "text": "And as you talk there,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.9
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.819,
+      "full_probs": {
+        "neu": 0.126,
+        "hap": 0.819,
+        "ang": 0.036,
+        "sad": 0.019
+      }
+    }
+  },
+  {
+    "start": 947.99,
+    "end": 951.29,
+    "text": "we can't afford the all of the big burden right now.",
+    "text_emotion": {
+      "label": "sadness",
+      "score": 0.591
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.38,
+      "full_probs": {
+        "neu": 0.267,
+        "hap": 0.38,
+        "ang": 0.024,
+        "sad": 0.329
+      }
+    }
+  },
+  {
+    "start": 951.29,
+    "end": 953.03,
+    "text": "We can't host, we can't have that discussion.",
+    "text_emotion": {
+      "label": "disgust",
+      "score": 0.327
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.676,
+      "full_probs": {
+        "neu": 0.676,
+        "hap": 0.134,
+        "ang": 0.025,
+        "sad": 0.165
+      }
+    }
+  },
+  {
+    "start": 953.75,
+    "end": 956.93,
+    "text": "But if you talk about holding one of the big $2036,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.862
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.444,
+      "full_probs": {
+        "neu": 0.444,
+        "hap": 0.326,
+        "ang": 0.021,
+        "sad": 0.209
+      }
+    }
+  },
+  {
+    "start": 957.75,
+    "end": 960.57,
+    "text": "so we have more than 10 years to hold it,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.956
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.742,
+      "full_probs": {
+        "neu": 0.032,
+        "hap": 0.179,
+        "ang": 0.047,
+        "sad": 0.742
+      }
+    }
+  },
+  {
+    "start": 960.75,
+    "end": 961.43,
+    "text": "and as he talks,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.891
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.929,
+      "full_probs": {
+        "neu": 0.036,
+        "hap": 0.929,
+        "ang": 0.028,
+        "sad": 0.007
+      }
+    }
+  },
+  {
+    "start": 961.89,
+    "end": 964.03,
+    "text": "or to his comment, all the things are decreasing.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.691
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.573,
+      "full_probs": {
+        "neu": 0.125,
+        "hap": 0.573,
+        "ang": 0.011,
+        "sad": 0.291
+      }
+    }
+  },
+  {
+    "start": 964.51,
+    "end": 967.11,
+    "text": "So we can develop ourselves in big plans",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.967
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.676,
+      "full_probs": {
+        "neu": 0.008,
+        "hap": 0.676,
+        "ang": 0.02,
+        "sad": 0.296
+      }
+    }
+  },
+  {
+    "start": 967.11,
+    "end": 971.05,
+    "text": "for the next 10 years that we can hold the all of the big cities",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.938
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.525,
+      "full_probs": {
+        "neu": 0.035,
+        "hap": 0.43,
+        "ang": 0.01,
+        "sad": 0.525
+      }
+    }
+  },
+  {
+    "start": 971.05,
+    "end": 971.71,
+    "text": "our country.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.888
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.576,
+      "full_probs": {
+        "neu": 0.25,
+        "hap": 0.576,
+        "ang": 0.165,
+        "sad": 0.009
+      }
+    }
+  },
+  {
+    "start": 972.43,
+    "end": 974.29,
+    "text": "And additionally, I would like to say that,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.636
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.621,
+      "full_probs": {
+        "neu": 0.029,
+        "hap": 0.621,
+        "ang": 0.0,
+        "sad": 0.349
+      }
+    }
+  },
+  {
+    "start": 974.51,
+    "end": 975.63,
+    "text": "if we are holding,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.731
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.733,
+      "full_probs": {
+        "neu": 0.167,
+        "hap": 0.733,
+        "ang": 0.062,
+        "sad": 0.038
+      }
+    }
+  },
+  {
+    "start": 976.09,
+    "end": 978.39,
+    "text": "if we are hosting the all of the big cities in our India,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.594
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.683,
+      "full_probs": {
+        "neu": 0.187,
+        "hap": 0.121,
+        "ang": 0.009,
+        "sad": 0.683
+      }
+    }
+  },
+  {
+    "start": 978.39,
+    "end": 981.37,
+    "text": "so all the players, all the coaches from the entire world",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.784
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.894,
+      "full_probs": {
+        "neu": 0.003,
+        "hap": 0.102,
+        "ang": 0.001,
+        "sad": 0.894
+      }
+    }
+  },
+  {
+    "start": 981.37,
+    "end": 982.91,
+    "text": "will come to India.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.583
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.639,
+      "full_probs": {
+        "neu": 0.224,
+        "hap": 0.639,
+        "ang": 0.076,
+        "sad": 0.062
+      }
+    }
+  },
+  {
+    "start": 983.33,
+    "end": 987.25,
+    "text": "And our players will get an opportunity to collaborate with the",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.788
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.521,
+      "full_probs": {
+        "neu": 0.011,
+        "hap": 0.466,
+        "ang": 0.002,
+        "sad": 0.521
+      }
+    }
+  },
+  {
+    "start": 987.25,
+    "end": 990.09,
+    "text": "coaches, the players, and down the new prospects is a duty.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.948
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.73,
+      "full_probs": {
+        "neu": 0.08,
+        "hap": 0.176,
+        "ang": 0.014,
+        "sad": 0.73
+      }
+    }
+  },
+  {
+    "start": 997.27,
+    "end": 999.11,
+    "text": "Thanks folks, I think so we are done.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.571
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.827,
+      "full_probs": {
+        "neu": 0.827,
+        "hap": 0.085,
+        "ang": 0.0,
+        "sad": 0.088
+      }
+    }
+  },
+  {
+    "start": 999.71,
+    "end": 1000.11,
+    "text": "Time is up.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.88
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.527,
+      "full_probs": {
+        "neu": 0.375,
+        "hap": 0.527,
+        "ang": 0.011,
+        "sad": 0.086
+      }
+    }
+  },
+  {
+    "start": 1000.65,
+    "end": 1001.15,
+    "text": "Thank you.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.666
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.567,
+      "full_probs": {
+        "neu": 0.365,
+        "hap": 0.567,
+        "ang": 0.048,
+        "sad": 0.02
+      }
+    }
+  },
+  {
+    "start": 1013.31,
+    "end": 1016.97,
+    "text": "So when it comes to the technical details of the topic,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.941
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.71,
+      "full_probs": {
+        "neu": 0.135,
+        "hap": 0.153,
+        "ang": 0.001,
+        "sad": 0.71
+      }
+    }
+  },
+  {
+    "start": 1018.63,
+    "end": 1020.73,
+    "text": "some of you touch base the right points,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.948
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.584,
+      "full_probs": {
+        "neu": 0.294,
+        "hap": 0.584,
+        "ang": 0.009,
+        "sad": 0.113
+      }
+    }
+  },
+  {
+    "start": 1021.25,
+    "end": 1023.83,
+    "text": "but I think so there is little bit more to it",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.935
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.506,
+      "full_probs": {
+        "neu": 0.156,
+        "hap": 0.177,
+        "ang": 0.162,
+        "sad": 0.506
+      }
+    }
+  },
+  {
+    "start": 1023.83,
+    "end": 1026.89,
+    "text": "what we could have touched through.",
+    "text_emotion": {
+      "label": "surprise",
+      "score": 0.436
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.794,
+      "full_probs": {
+        "neu": 0.794,
+        "hap": 0.022,
+        "ang": 0.003,
+        "sad": 0.18
+      }
+    }
+  },
+  {
+    "start": 1027.33,
+    "end": 1029.39,
+    "text": "So let's take first the positives,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.808
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.585,
+      "full_probs": {
+        "neu": 0.585,
+        "hap": 0.059,
+        "ang": 0.001,
+        "sad": 0.355
+      }
+    }
+  },
+  {
+    "start": 1030.57,
+    "end": 1033.53,
+    "text": "because every topic would have some positives, some negatives.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.658
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.752,
+      "full_probs": {
+        "neu": 0.752,
+        "hap": 0.011,
+        "ang": 0.004,
+        "sad": 0.234
+      }
+    }
+  },
+  {
+    "start": 1033.75,
+    "end": 1035.29,
+    "text": "So let's first take the positive part.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.862
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.405,
+      "full_probs": {
+        "neu": 0.399,
+        "hap": 0.405,
+        "ang": 0.018,
+        "sad": 0.178
+      }
+    }
+  },
+  {
+    "start": 1035.29,
+    "end": 1041.27,
+    "text": "I think so, Radhra, Momeka, couple of folks took the opportunity",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.602
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.474,
+      "full_probs": {
+        "neu": 0.474,
+        "hap": 0.198,
+        "ang": 0.001,
+        "sad": 0.327
+      }
+    }
+  },
+  {
+    "start": 1041.27,
+    "end": 1044.85,
+    "text": "to say, yeah, it's a chance that we should take.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.787
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.754,
+      "full_probs": {
+        "neu": 0.754,
+        "hap": 0.144,
+        "ang": 0.021,
+        "sad": 0.08
+      }
+    }
+  },
+  {
+    "start": 1045.47,
+    "end": 1048.97,
+    "text": "So example is Barcelona, 1992 Olympics.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.805
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.485,
+      "full_probs": {
+        "neu": 0.485,
+        "hap": 0.443,
+        "ang": 0.007,
+        "sad": 0.065
+      }
+    }
+  },
+  {
+    "start": 1050.11,
+    "end": 1053.51,
+    "text": "It was a very good turnover for Spain,",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.891
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.553,
+      "full_probs": {
+        "neu": 0.106,
+        "hap": 0.553,
+        "ang": 0.152,
+        "sad": 0.189
+      }
+    }
+  },
+  {
+    "start": 1054.17,
+    "end": 1055.49,
+    "text": "which boosted the economy.",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.707
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.522,
+      "full_probs": {
+        "neu": 0.221,
+        "hap": 0.522,
+        "ang": 0.198,
+        "sad": 0.058
+      }
+    }
+  },
+  {
+    "start": 1056.03,
+    "end": 1058.77,
+    "text": "It highlighted the tourism in the country before that",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.815
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.66,
+      "full_probs": {
+        "neu": 0.087,
+        "hap": 0.064,
+        "ang": 0.189,
+        "sad": 0.66
+      }
+    }
+  },
+  {
+    "start": 1058.77,
+    "end": 1060.09,
+    "text": "the tourism was very low.",
+    "text_emotion": {
+      "label": "sadness",
+      "score": 0.442
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.504,
+      "full_probs": {
+        "neu": 0.185,
+        "hap": 0.504,
+        "ang": 0.054,
+        "sad": 0.257
+      }
+    }
+  },
+  {
+    "start": 1061.17,
+    "end": 1062.67,
+    "text": "So that was a positive point.",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.694
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.393,
+      "full_probs": {
+        "neu": 0.393,
+        "hap": 0.194,
+        "ang": 0.373,
+        "sad": 0.04
+      }
+    }
+  },
+  {
+    "start": 1063.67,
+    "end": 1064.59,
+    "text": "Okay, an example.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.626
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.678,
+      "full_probs": {
+        "neu": 0.088,
+        "hap": 0.678,
+        "ang": 0.219,
+        "sad": 0.014
+      }
+    }
+  },
+  {
+    "start": 1065.05,
+    "end": 1069.31,
+    "text": "Another thing, I think sorry, little bad name, Sagar,",
+    "text_emotion": {
+      "label": "sadness",
+      "score": 0.737
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.575,
+      "full_probs": {
+        "neu": 0.575,
+        "hap": 0.327,
+        "ang": 0.004,
+        "sad": 0.094
+      }
+    }
+  },
+  {
+    "start": 1069.77,
+    "end": 1074.51,
+    "text": "you quoted that none of the Olympics or countries got benefit",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.553
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.488,
+      "full_probs": {
+        "neu": 0.245,
+        "hap": 0.488,
+        "ang": 0.02,
+        "sad": 0.247
+      }
+    }
+  },
+  {
+    "start": 1074.51,
+    "end": 1077.17,
+    "text": "or profits hosting an Olympics.",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.89
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.634,
+      "full_probs": {
+        "neu": 0.634,
+        "hap": 0.119,
+        "ang": 0.013,
+        "sad": 0.234
+      }
+    }
+  },
+  {
+    "start": 1077.79,
+    "end": 1078.37,
+    "text": "It's not true.",
+    "text_emotion": {
+      "label": "disgust",
+      "score": 0.35
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.386,
+      "full_probs": {
+        "neu": 0.386,
+        "hap": 0.271,
+        "ang": 0.315,
+        "sad": 0.028
+      }
+    }
+  },
+  {
+    "start": 1078.77,
+    "end": 1083.63,
+    "text": "UK is an example where they had a profit of almost $1 billion.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.543
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.557,
+      "full_probs": {
+        "neu": 0.557,
+        "hap": 0.106,
+        "ang": 0.013,
+        "sad": 0.323
+      }
+    }
+  },
+  {
+    "start": 1086.11,
+    "end": 1089.63,
+    "text": "And that was more from the tourism because of the Olympics.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.767
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.941,
+      "full_probs": {
+        "neu": 0.017,
+        "hap": 0.029,
+        "ang": 0.013,
+        "sad": 0.941
+      }
+    }
+  },
+  {
+    "start": 1090.87,
+    "end": 1093.39,
+    "text": "So we might have a chance.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.873
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.5,
+      "full_probs": {
+        "neu": 0.237,
+        "hap": 0.5,
+        "ang": 0.068,
+        "sad": 0.196
+      }
+    }
+  },
+  {
+    "start": 1093.87,
+    "end": 1098.47,
+    "text": "Okay, definitely it will help us boost our infrastructure",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.71
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.635,
+      "full_probs": {
+        "neu": 0.635,
+        "hap": 0.053,
+        "ang": 0.011,
+        "sad": 0.301
+      }
+    }
+  },
+  {
+    "start": 1098.47,
+    "end": 1101.55,
+    "text": "because definitely we would need to build stadiums,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.883
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.511,
+      "full_probs": {
+        "neu": 0.511,
+        "hap": 0.074,
+        "ang": 0.047,
+        "sad": 0.368
+      }
+    }
+  },
+  {
+    "start": 1101.65,
+    "end": 1103.81,
+    "text": "we need to build the infrastructure to host the Olympics.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.894
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.884,
+      "full_probs": {
+        "neu": 0.068,
+        "hap": 0.013,
+        "ang": 0.034,
+        "sad": 0.884
+      }
+    }
+  },
+  {
+    "start": 1104.45,
+    "end": 1106.43,
+    "text": "And yes, we are talking about 2036 Olympics",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.912
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.419,
+      "full_probs": {
+        "neu": 0.338,
+        "hap": 0.419,
+        "ang": 0.108,
+        "sad": 0.135
+      }
+    }
+  },
+  {
+    "start": 1106.43,
+    "end": 1108.21,
+    "text": "which will give us at least 10 years,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.886
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.518,
+      "full_probs": {
+        "neu": 0.052,
+        "hap": 0.347,
+        "ang": 0.083,
+        "sad": 0.518
+      }
+    }
+  },
+  {
+    "start": 1108.39,
+    "end": 1110.81,
+    "text": "more than 11 years to host.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.671
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.654,
+      "full_probs": {
+        "neu": 0.017,
+        "hap": 0.317,
+        "ang": 0.012,
+        "sad": 0.654
+      }
+    }
+  },
+  {
+    "start": 1111.03,
+    "end": 1111.73,
+    "text": "So we can prep.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.929
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.737,
+      "full_probs": {
+        "neu": 0.077,
+        "hap": 0.737,
+        "ang": 0.177,
+        "sad": 0.009
+      }
+    }
+  },
+  {
+    "start": 1112.91,
+    "end": 1115.45,
+    "text": "And this is sufficient time if we want.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.973
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.518,
+      "full_probs": {
+        "neu": 0.518,
+        "hap": 0.213,
+        "ang": 0.04,
+        "sad": 0.229
+      }
+    }
+  },
+  {
+    "start": 1115.45,
+    "end": 1119.31,
+    "text": "Right, it will give us an opportunity to create new jobs.",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.522
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.619,
+      "full_probs": {
+        "neu": 0.619,
+        "hap": 0.116,
+        "ang": 0.042,
+        "sad": 0.223
+      }
+    }
+  },
+  {
+    "start": 1119.93,
+    "end": 1122.59,
+    "text": "Maybe the laborers jobs, even the management jobs,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.916
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.705,
+      "full_probs": {
+        "neu": 0.705,
+        "hap": 0.123,
+        "ang": 0.024,
+        "sad": 0.148
+      }
+    }
+  },
+  {
+    "start": 1122.99,
+    "end": 1124.51,
+    "text": "infrastructure jobs, coaches,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.892
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.489,
+      "full_probs": {
+        "neu": 0.489,
+        "hap": 0.162,
+        "ang": 0.317,
+        "sad": 0.032
+      }
+    }
+  },
+  {
+    "start": 1125.13,
+    "end": 1126.83,
+    "text": "there are a lot of opportunities we might have.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.926
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.37,
+      "full_probs": {
+        "neu": 0.237,
+        "hap": 0.248,
+        "ang": 0.145,
+        "sad": 0.37
+      }
+    }
+  },
+  {
+    "start": 1127.29,
+    "end": 1130.79,
+    "text": "Okay, another thing, apart from only cricket,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.755
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.441,
+      "full_probs": {
+        "neu": 0.441,
+        "hap": 0.303,
+        "ang": 0.12,
+        "sad": 0.136
+      }
+    }
+  },
+  {
+    "start": 1131.93,
+    "end": 1135.23,
+    "text": "even now we see there is a boost of other sports.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.79
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.584,
+      "full_probs": {
+        "neu": 0.034,
+        "hap": 0.147,
+        "ang": 0.235,
+        "sad": 0.584
+      }
+    }
+  },
+  {
+    "start": 1135.65,
+    "end": 1138.45,
+    "text": "We have covered D, we have pro leagues there,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.972
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.39,
+      "full_probs": {
+        "neu": 0.104,
+        "hap": 0.39,
+        "ang": 0.234,
+        "sad": 0.272
+      }
+    }
+  },
+  {
+    "start": 1138.97,
+    "end": 1141.47,
+    "text": "we have other sports which is picking up.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.924
+    },
+    "audio_emotion": {
+      "label": "ang",
+      "score": 0.509,
+      "full_probs": {
+        "neu": 0.078,
+        "hap": 0.326,
+        "ang": 0.509,
+        "sad": 0.087
+      }
+    }
+  },
+  {
+    "start": 1141.47,
+    "end": 1145.55,
+    "text": "It might give us another opportunity for next 10 years",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.68
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.536,
+      "full_probs": {
+        "neu": 0.132,
+        "hap": 0.536,
+        "ang": 0.217,
+        "sad": 0.115
+      }
+    }
+  },
+  {
+    "start": 1145.55,
+    "end": 1147.77,
+    "text": "to boost that those sports.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.739
+    },
+    "audio_emotion": {
+      "label": "ang",
+      "score": 0.612,
+      "full_probs": {
+        "neu": 0.044,
+        "hap": 0.026,
+        "ang": 0.612,
+        "sad": 0.318
+      }
+    }
+  },
+  {
+    "start": 1149.57,
+    "end": 1154.71,
+    "text": "And definitely we can sell our culture to tourism.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.96
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.404,
+      "full_probs": {
+        "neu": 0.269,
+        "hap": 0.404,
+        "ang": 0.133,
+        "sad": 0.194
+      }
+    }
+  },
+  {
+    "start": 1155.49,
+    "end": 1159.33,
+    "text": "So that these could be the points or these could be the things",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.95
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.652,
+      "full_probs": {
+        "neu": 0.652,
+        "hap": 0.081,
+        "ang": 0.083,
+        "sad": 0.184
+      }
+    }
+  },
+  {
+    "start": 1159.33,
+    "end": 1162.53,
+    "text": "on a positive side, how we can improve",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.961
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.572,
+      "full_probs": {
+        "neu": 0.323,
+        "hap": 0.098,
+        "ang": 0.007,
+        "sad": 0.572
+      }
+    }
+  },
+  {
+    "start": 1162.53,
+    "end": 1164.05,
+    "text": "it could be an opportunity for India.",
+    "text_emotion": {
+      "label": "joy",
+      "score": 0.657
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.524,
+      "full_probs": {
+        "neu": 0.524,
+        "hap": 0.394,
+        "ang": 0.024,
+        "sad": 0.057
+      }
+    }
+  },
+  {
+    "start": 1164.97,
+    "end": 1168.49,
+    "text": "Now let's discuss the cons or the challenges.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.95
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.795,
+      "full_probs": {
+        "neu": 0.795,
+        "hap": 0.158,
+        "ang": 0.039,
+        "sad": 0.008
+      }
+    }
+  },
+  {
+    "start": 1169.11,
+    "end": 1170.81,
+    "text": "How it could be a burden as well.",
+    "text_emotion": {
+      "label": "sadness",
+      "score": 0.37
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.359,
+      "full_probs": {
+        "neu": 0.09,
+        "hap": 0.338,
+        "ang": 0.212,
+        "sad": 0.359
+      }
+    }
+  },
+  {
+    "start": 1171.35,
+    "end": 1173.53,
+    "text": "So the burden would be, let's again,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.848
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.421,
+      "full_probs": {
+        "neu": 0.421,
+        "hap": 0.184,
+        "ang": 0.194,
+        "sad": 0.202
+      }
+    }
+  },
+  {
+    "start": 1173.63,
+    "end": 1176.53,
+    "text": "takes the example of Athens Olympics or real Olympics.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.943
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.451,
+      "full_probs": {
+        "neu": 0.451,
+        "hap": 0.38,
+        "ang": 0.005,
+        "sad": 0.164
+      }
+    }
+  },
+  {
+    "start": 1177.23,
+    "end": 1181.27,
+    "text": "Does anybody is aware of how much spend nature is needed",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.755
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.462,
+      "full_probs": {
+        "neu": 0.365,
+        "hap": 0.462,
+        "ang": 0.125,
+        "sad": 0.049
+      }
+    }
+  },
+  {
+    "start": 1182.17,
+    "end": 1183.97,
+    "text": "for the Olympics hosting the Olympics?",
+    "text_emotion": {
+      "label": "surprise",
+      "score": 0.909
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.365,
+      "full_probs": {
+        "neu": 0.333,
+        "hap": 0.365,
+        "ang": 0.003,
+        "sad": 0.299
+      }
+    }
+  },
+  {
+    "start": 1186.41,
+    "end": 1189.13,
+    "text": "It's usually about 12 to 15 billion dollars.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.889
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.655,
+      "full_probs": {
+        "neu": 0.655,
+        "hap": 0.137,
+        "ang": 0.131,
+        "sad": 0.077
+      }
+    }
+  },
+  {
+    "start": 1190.43,
+    "end": 1191.73,
+    "text": "So we are talking about a huge sum.",
+    "text_emotion": {
+      "label": "surprise",
+      "score": 0.543
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.479,
+      "full_probs": {
+        "neu": 0.385,
+        "hap": 0.479,
+        "ang": 0.065,
+        "sad": 0.07
+      }
+    }
+  },
+  {
+    "start": 1192.09,
+    "end": 1196.03,
+    "text": "So Athens, Rio, they are in debt because of Olympics.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.497
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.481,
+      "full_probs": {
+        "neu": 0.228,
+        "hap": 0.28,
+        "ang": 0.011,
+        "sad": 0.481
+      }
+    }
+  },
+  {
+    "start": 1196.03,
+    "end": 1200.03,
+    "text": "So yes, it's a huge risk if somebody takes it.",
+    "text_emotion": {
+      "label": "fear",
+      "score": 0.556
+    },
+    "audio_emotion": {
+      "label": "hap",
+      "score": 0.35,
+      "full_probs": {
+        "neu": 0.33,
+        "hap": 0.35,
+        "ang": 0.076,
+        "sad": 0.244
+      }
+    }
+  },
+  {
+    "start": 1200.33,
+    "end": 1205.19,
+    "text": "As mentioned, underutilized infrastructure,",
+    "text_emotion": {
+      "label": "sadness",
+      "score": 0.526
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.596,
+      "full_probs": {
+        "neu": 0.248,
+        "hap": 0.079,
+        "ang": 0.077,
+        "sad": 0.596
+      }
+    }
+  },
+  {
+    "start": 1205.95,
+    "end": 1207.11,
+    "text": "another big challenge.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.665
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.596,
+      "full_probs": {
+        "neu": 0.596,
+        "hap": 0.214,
+        "ang": 0.17,
+        "sad": 0.02
+      }
+    }
+  },
+  {
+    "start": 1207.99,
+    "end": 1210.43,
+    "text": "There could be environmental impacts cutting down the trees",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.344
+    },
+    "audio_emotion": {
+      "label": "neu",
+      "score": 0.669,
+      "full_probs": {
+        "neu": 0.669,
+        "hap": 0.267,
+        "ang": 0.016,
+        "sad": 0.048
+      }
+    }
+  },
+  {
+    "start": 1210.43,
+    "end": 1212.59,
+    "text": "just to boost infrastructure or the buildings.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.865
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.546,
+      "full_probs": {
+        "neu": 0.396,
+        "hap": 0.053,
+        "ang": 0.005,
+        "sad": 0.546
+      }
+    }
+  },
+  {
+    "start": 1213.79,
+    "end": 1215.81,
+    "text": "So there could be these kind of impacts,",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.882
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.534,
+      "full_probs": {
+        "neu": 0.256,
+        "hap": 0.022,
+        "ang": 0.187,
+        "sad": 0.534
+      }
+    }
+  },
+  {
+    "start": 1215.99,
+    "end": 1218.61,
+    "text": "there could be social impact moving the slums, moving the people.",
+    "text_emotion": {
+      "label": "neutral",
+      "score": 0.844
+    },
+    "audio_emotion": {
+      "label": "sad",
+      "score": 0.409,
+      "full_probs": {
+        "neu": 0.105,
+        "hap": 0.285,
+        "ang": 0.201,
+        "sad": 0.409
+      }
+    }
+  }
+]

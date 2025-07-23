@@ -1,0 +1,57 @@
+# Training config for E2EDASTModel
+
+# Training hyperparameters
+training:
+  epochs: 40 # later change it to 50
+  batch_size: 2 # later change it to 8
+  gradient_accumulation_steps: 1
+
+optimizer:
+  type: adamw
+  lr: 0.0003
+  weight_decay: 0.01
+  betas: [0.9, 0.98]
+
+loss_weights:
+  diarization: 1.0
+  asr: 1.0
+  speaker: 0.0  # Can be set >0.0 if ContrastiveLoss is enabled
+
+logging:
+  interval: 50
+  save_checkpoint_every: 1  # in epochs
+
+checkpoint_dir: experiments/pretrained_model
+
+# Dataset settings
+data:
+  audio_dir: data/audio               # path to your WAV files
+  label_dir: data/labels              # path to your JSON transcripts
+  sample_rate: 16000
+  max_len: 20.0 # later change it to 45 or 60
+  hop_len: 10.0
+
+# Model hyperparameters
+model:
+  num_mel_bins: 80
+  sample_rate: 16000
+  max_num_speakers: 4
+
+  encoder:
+    input_dim: 80
+    d_model: 256
+    encoder_dim: 256  # You can omit this if not used
+    num_layers: 6
+    num_heads: 4
+    dropout: 0.1
+    subsampling: 4
+
+  decoder:
+    vocab_size: 5000
+    d_model: 256
+    num_layers: 4
+    num_heads: 4
+    dropout: 0.1
+
+  speaker_embedding:
+    dim: 256
